@@ -1,0 +1,11 @@
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\NetCapperTest1.Form1.resources
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\NetCapperTest1.csproj.GenerateResource.Cache
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\NetCapperTest1.csproj.CoreCompileInputs.cache
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\NetCapperTest1.csprojResolveAssemblyReference.cache
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\bin\Debug\GCD_LCM_Calculator.exe.config
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\bin\Debug\GCD_LCM_Calculator.exe
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\bin\Debug\GCD_LCM_Calculator.pdb
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.Properties.Resources.resources
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.exe
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.pdb
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.Form1.resources

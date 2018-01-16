@@ -1,0 +1,12 @@
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.Form1.resources
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.Properties.Resources.resources
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.csproj.GenerateResource.Cache
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.exe
+C:\Users\APR\source\repos\NetCapperTest1\NetCapperTest1\obj\Debug\GCD_LCM_Calculator.pdb
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.Form1.resources
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.Properties.Resources.resources
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.csproj.GenerateResource.Cache
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.exe
+C:\Users\APR\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\GCD_LCM_Calculator.pdb
