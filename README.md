@@ -2,4 +2,4 @@
 
 A little GCD and LCM calculator.  
 
-![alt text](https://i.imgur.com/uWZfbiA.png)
+![alt text](https://i.imgur.com/kSx9SlB.png)
